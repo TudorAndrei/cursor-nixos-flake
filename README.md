@@ -1,3 +1,6 @@
+| :exclamation:  I'm no longer using nixos so i'm archiving the project   |
+|----------------------------------------------|
+
 # Self-Updating Cursor Flake
 
 A Nix flake that provides the Cursor code editor with automatic daily updates via GitHub Actions.
